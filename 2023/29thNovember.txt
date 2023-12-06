@@ -1,0 +1,19 @@
+1. Review proposal 
+
+2. Try to get the dataset (CIA), figure out what kind of ethics approval is needed 
+
+3. Get the ethics approval document template
+
+4. Get a list of projects that have used the proposed dataset 
+
+5. Get a list of similar datasets 
+
+6. See how people have used these datasets, what kind of preprocessing, etc. 
+
+7. Literature review 
+
+8. Request DGX1 access
+
+9. Ensure desk PC works has everything I need
+
+ 
