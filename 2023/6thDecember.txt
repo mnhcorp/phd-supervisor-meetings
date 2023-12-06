@@ -1,0 +1,41 @@
+1. UK Biobank,  browse collection 
+
+2. Datasets table needs a: 
+
+License column 
+
+Metrics column 
+
+3. Download KIRC dataset 
+
+Find how many subjects have images, what dataset is missing 
+
+4. Ethics form updates: 
+
+Fix collection & transfer list 
+
+Someone else collects, I download 
+
+5. For TCGA check restrictions re: publishing data: 
+
+Are we allowed to publish modified data 
+
+Won't release data only results based on the data 
+
+6. Add number of subjects to data description section in ethics form 
+
+Datasets table – add column for size of data 
+
+Aggregate number of subjects, total size to get a sense of storage requriements 
+
+31b, copy ethical considerations from the start 
+
+Finish ethics form, add David's comment & signature and send email to ethics committee, mark a copy for David. 
+
+Literature review: 
+
+Look at the existing research, identify gaps 
+
+Look at research on multi-modal space outside of clinical/biomedical domain, see what can be brought in or transferred 
+
+Download and look at the metadata 
