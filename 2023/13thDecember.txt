@@ -1,0 +1,6 @@
+- Need values for the metrics to see how they're doing, another column on the datasets table
+- This will help determine multi-modal vs unimodal performance, another column on the datasets table
+- DHB will have to fill in the form for NIH access
+- May have to see if we can get blanket (multiple-dataset) approval from NIH
+- UK Biobank - talk to Silvia and Chrissy
+- Next meeting between Jan 10th and Jan 30th (Teams)
