@@ -1,0 +1,3 @@
+- Tokenizing modality-agnostic data and throwing them into a transformer architecture works fine for general text and images, does this work for biomedical data where the volume is lower and the dimensionality extremley high (for e.g., WSIs)?
+- Download the TGCA data, and try the tokenization by throwing them into an architecture that's similar to the Perceiver. Naviley, see what happens.
+
