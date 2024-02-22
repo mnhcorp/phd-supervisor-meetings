@@ -1,3 +1,4 @@
+0. Get access to the new 40GB VRAM GPU server in the University.
 1. Binary classification task to predict mutation status from imaging data using Perceiver is a good start.
 2. Perform data analysis for the CT scans, make sure you use images from the same type/calibration.
 3. Use only CT scans, so 81+3 patients. Don't use MRI scans. Re-check label distribution on the new set.
