@@ -1,0 +1,7 @@
+1. Binary classification task to predict mutation status from imaging data using Perceiver is a good start.
+2. Perform data analysis for the CT scans, make sure you use images from the same type/calibration.
+3. Use only CT scans, so 81+3 patients. Don't use MRI scans. Re-check label distribution on the new set.
+4. If each patient has multiple studies then use scans from the first one. This is when the tumor/disease was first reported, the later scans would have had some treatment.
+5. Check dataset citation and search Google scholar/other places to see if other people have used this dataset, with or without the Perceiver architecture. Good to have some numbers.
+6. Check the deadline for submission for MIUA 2024, and think about a submission for this experiment if the timing permits.
+7. Good to have some early results before the next meeting (14th March)
