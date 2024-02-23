@@ -6,3 +6,4 @@
 5. Check dataset citation and search Google scholar/other places to see if other people have used this dataset, with or without the Perceiver architecture. Good to have some numbers.
 6. Check the deadline for submission for MIUA 2024, and think about a submission for this experiment if the timing permits.
 7. Good to have some early results before the next meeting (14th March)
+8. If additional data access is needed (for e.g., MIMIC-IV) then it's OK to put in an amendment instead of a new ethics application form.
