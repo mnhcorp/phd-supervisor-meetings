@@ -1,0 +1,7 @@
+- Get access to the big GPU cluster ([HA]100 GPUs).
+- Check if all CT slices are relevent, only need the ones that highlight the kidney.
+- Try to get some results for the MIUA paper.
+- Start writing the literature review, need it for the PhD review process.
+- Try to get multi-gpu working on DGX1
+- Supervision meeting, next Thurs, 21/03/24
+- Need to discuss: data management plan, ceed courses, career stuff, phd timeline, gnatt chart
