@@ -1,0 +1,6 @@
+- The 3D volume constructed from the slices in the middle (+20 on both sides of the center slice) - is it capturing the region of interest.
+- Find if this is true using Coronal reconstruction to see if the kidneys are visible, or use Maximum Intensity Projection (MIP)
+- Do a proper train/validate/test split and DO NOT touch the test set.
+- Try to optimize MNIST and see if we get the performance to go up
+- Find a 3D dataset, try MedMNISTv2
+- Update MMS with the meeting notes from the previous 3 meetings
