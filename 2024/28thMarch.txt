@@ -1,0 +1,7 @@
+- Next steps: more epochs
+- Describe label distribution for each dataset used from MedMNISTv2
+- Compute the balanced accuracy, some datasets are imbalanced
+- Performance with bigger size 224x224, across the datasets where the bigger image is available
+- Create a hyperparameter table, with the value used and the justification.
+- Do a review of what other people have done with this dataset
+- Do an ethics amendment for MedMNISTv2
