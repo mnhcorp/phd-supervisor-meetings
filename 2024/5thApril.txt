@@ -1,0 +1,12 @@
+- The AUC for some of the runs are at 0.500 even with a high accuracy, this is weird and needs more investigation
+- Comparison with the 224x224 benchmark from MedMNISTv2
+- Balanced accuracy and/or weighted cost function
+- Multiple runs with different seeds, take the best one.
+- Hyper-parameter tuning with small set of hyper parameters
+- For all possible hyper-parameter configurations, run a minimum of 100-120 epochs
+- Check the MedMNISTv2 paper for learning rate, batch_size, epochs
+- Larger batch sizes for bigger datasets
+- MIUA paper draft by Wednesday
+- Focus on pneumoniamnist & breastmnist
+- Check SOTA performance on pneumoniamnist & breastmnist (even without Perceiver)
+- Admin: Push to supervisor meeting notes to MMS
