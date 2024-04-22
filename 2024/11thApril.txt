@@ -1,0 +1,8 @@
+- MIUA draft review
+- Introduction fixes
+- Clinical Problem, then Technical problem then background (a paragraph or two)
+- Make your own architecture image
+- Check if MedMNISTv2 benchmarks are on test or validation set
+- Show data distribution
+- Comparative analysis - table with SOTA results
+- Tune abstract, make it more focused (including title)

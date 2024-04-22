@@ -1,0 +1,11 @@
+1. Report time, training, inference, HP optimization (see Computation Time paper)
+2. Justification of HP ranges, cite paper for ranges, etc.
+3. Test set in label distribution
+4. Test set in data description table
+5. In Discussion give context
+    1. Why our model performs the way it does.
+    2. Why does others perform the way they do, etc. 
+    3. Also Future work
+6. Conclusion
+    1. Important highlights.
+7. Font size in images has to be same size as captions.
