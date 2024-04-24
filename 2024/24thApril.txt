@@ -4,3 +4,4 @@
 - Cross-valdiation has empirically not performed well on unseed datasets, use with caution and always have a test set
 - Try the Pneumonia model on other Pneumonia datasets (there may be many)
 - If you want to slide the missed hyperparameter, be transparent and suggestion is to not touch the Pneumonia and Breast test set again.
+- Add images to the paper (and the poster)
